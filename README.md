@@ -1,2 +1,8 @@
-# HelloWorld.github.io
+# HelloWorld
 A demonstration for website building. :D
+
+...
+
+Checklist
+
+...
