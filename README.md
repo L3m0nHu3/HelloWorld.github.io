@@ -15,7 +15,7 @@ To do list ... A different oranization
 - [] I like this checklist a lot
 - [] However, it reminds me that I still have things to do
 - [] which is very upsetting
-- [] eat your dog
+- [x] eat your dog
 
 ... Wait what...
 
